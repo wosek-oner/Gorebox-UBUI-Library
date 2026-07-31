@@ -1,0 +1,10 @@
+{
+  "name": "Unity Based User Interface Library Example",
+  "description": "the documentation on how to use it is in /documentation folder.\nUse !example to open the example window,\nIt covers the basics of this library.",
+  "mainScript": "example.lua",
+  "version": "1.0",
+  "active": true,
+  "unloadOnError": false,
+  "safeMode": false,
+  "isPlugin": false
+}
