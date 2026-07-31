@@ -4,7 +4,7 @@ Unity Based User Interface 1.0  Made by me Wosek  UBUI is an open library, absol
 
 The documentation is placed in /documentation.
 
-#Basics:
+# Basics:
 
 Load the UBUI using File.DoFile(path)
 
