@@ -1,5 +1,7 @@
 # Gorebox-UBUI-Library
-Unity Based User Interface 1.0  Made by me Wosek  UBUI is an open library, absolutely free to use.
+Unity Based User Interface 1.0
+Made by Wosek
+UBUI is an open library, absolutely free to use.
 
 
 The documentation is placed in /documentation.
