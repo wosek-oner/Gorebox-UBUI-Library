@@ -1,0 +1,6 @@
+v1.05
+Fixed border 1 pixel inset bug
+Added canvas creation
+
+v1.0
+Release
