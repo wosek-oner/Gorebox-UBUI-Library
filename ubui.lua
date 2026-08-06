@@ -4,7 +4,7 @@
 
 local UBUI = {}
 
-UBUI.VERSION = "1.0"
+UBUI.VERSION = "1.05"
 
 UBUI.IMAGE_TYPE  = { simple = 0, sliced = 1, tiled = 2, filled = 3 }
 UBUI.FILL_METHOD = { horizontal = 0, vertical = 1, radial90 = 2, radial180 = 3, radial360 = 4 }
